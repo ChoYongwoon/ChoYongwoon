@@ -1,8 +1,9 @@
-### Yongwoon Cho
+# Yongwoon Cho
 🌱Undergraduate student in Seoul National Uinversity
 
 ## Stack
-Language : <a href="https://github.com/ChoYongwoon/Study" target="_blank"><img src="https://img.shields.io/badge/c++-green?style=plastic&logo=00599C&logoColor=inactive"/></a>
+# Language
+<a href="https://github.com/ChoYongwoon/Study" target="_blank"><img src="https://img.shields.io/badge/c++-green?style=plastic&logo=00599C&logoColor=white"/></a>
 
 AI framework : 
 
