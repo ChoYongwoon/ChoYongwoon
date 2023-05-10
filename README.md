@@ -6,7 +6,8 @@
 ### Language
 
 <a href="https://github.com/ChoYongwoon/Study" target="_blank"><img src="https://img.shields.io/badge/-C/C++-green?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-
+<a href="https://github.com/ChoYongwoon/LeetCode" target="_blank"><img src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="https://github.com/ChoYongwoon/ComputerVision" target="_blank"><img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white"/></a>
 
 
 AI framework : 
