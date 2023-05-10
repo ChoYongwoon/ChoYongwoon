@@ -10,11 +10,11 @@
 
 
 ### AI framework
-<img src="https://img.shields.io/badge/-NumPy-yellow?style=for-the-badge&logo=numpy&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Pandas-red?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-PyTorch-yellowgreen?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Scikit--Learn-blue?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-NumPy-green?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Pandas-orange?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-TensorFlow-blue?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Scikit--Learn-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
 
 <!--
 **ChoYongwoon/ChoYongwoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
