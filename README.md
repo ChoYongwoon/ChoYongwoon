@@ -4,9 +4,9 @@
 
 ## 💻My Stack
 ### Language
-<a href="https://github.com/ChoYongwoon/Study" target="_blank"><img src="https://img.shields.io/badge/-C-brightgreen?style=plastic&logo=A8B9CC&logoColor=white"/></a>
-<a href="https://github.com/ChoYongwoon/Study" target="_blank"><img src="https://img.shields.io/badge/-C++-yellowgreen?style=plastic&logo=c%2B%2B&logoColor=white"/></a>
-<a href="https://github.com/ChoYongwoon/Study" target="_blank"><img src="https://img.shields.io/badge/c++-green?style=plastic&logo=00599C&logoColor=white"/></a>
+
+<a href="https://github.com/ChoYongwoon/Study" target="_blank"><img src="https://img.shields.io/badge/-C++-green?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+
 
 
 AI framework : 
