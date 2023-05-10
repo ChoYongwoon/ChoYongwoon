@@ -1,9 +1,13 @@
-# Yongwoon Cho
-🌱Undergraduate student in Seoul National Uinversity
+# I'm Yongwoon Cho
+### 🌱Undergraduate student in Seoul National Uinversity
+### ⚖️Major in CEE & CSE
 
-## Stack
-# Language
+## 💻My Stack
+### Language
+<a href="https://github.com/ChoYongwoon/Study" target="_blank"><img src="https://img.shields.io/badge/-C/C++-yellowgreen?style=plastic&logo=c%2B%2B&logoColor=white"/></a>
 <a href="https://github.com/ChoYongwoon/Study" target="_blank"><img src="https://img.shields.io/badge/c++-green?style=plastic&logo=00599C&logoColor=white"/></a>
+<a href="https://github.com/ChoYongwoon/Study" target="_blank"><img src="https://img.shields.io/badge/c++-green?style=plastic&logo=00599C&logoColor=white"/></a>
+
 
 AI framework : 
 
