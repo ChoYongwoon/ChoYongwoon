@@ -30,7 +30,7 @@ I implemented traditional computer vision methods such as Histogram Of Gradients
 I contributed to this project by generating and preprocessing data, creating a custom model, and training it using LSTM-based learning to play Tetris based on the generated signal.
 ### [Sound Classification with MCU](https://github.com/ChoYongwoon/Sound_classification_by_MCU)
 I implemented a sound classifier using PyTorch, converted it to C, and ported it to an MCU.
-s
+
 <!--
 **ChoYongwoon/ChoYongwoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
