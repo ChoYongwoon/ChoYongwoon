@@ -1,4 +1,4 @@
-# 🧑‍About Me
+# 👨‍🎓About Me
 ### 📛My name is Yongwoon Cho.
 ### 🌱I am an undergraduate student at Seoul National University.
 ### ⚖️I am pursuing a double major in Civil and Environmental Engineering (CEE) and Computer Science and Engineering (CSE).
